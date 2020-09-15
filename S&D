@@ -20,6 +20,6 @@ int main()
     h=e-f;
     printf("%.1f",h);
     
-    
+   
     return 0;
 }
